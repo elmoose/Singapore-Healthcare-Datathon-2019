@@ -1,0 +1,18 @@
+﻿Comorbidities,Score,Done
+Myocardial infarction,1,1
+Congestive heart failure,1,1
+Peripheral vascular disease,1,1
+Cerebrovascular disease,1,1
+Dementia,1,1
+Chronic pulmonary disease,1,1
+Rheumatic disease,1,
+Peptic ulcer disease,1,
+Mild liver disease,1,
+Diabetes without chronic complication,1,1
+Diabetes with chronic complication,2,
+Hemiplegia or paraplegia,2,
+"Any tumor lymphoma and leukemia, except malignant neoplasm of skin",2,1
+Renal disease,2,1
+Moderate or severe liver disease,3,1
+Metastatic solid tumor,6,1
+AIDS/HIV,6,
