@@ -12,7 +12,7 @@ Traditional, explainable machine learning models are used in this patient classi
 
 ## View project:
 - [Slide Deck](https://docs.google.com/presentation/d/1iyc6C6Lsc666NSdZDXdKFiKf_86ZJLiCEtb1ZHteHBE/edit?usp=sharing)
-- [Code for Final Models]((https://github.com/terenceneo/Prediction-of-ER-Readmissions/blob/master/Models.ipynb))
+- [Code for Final Models](https://github.com/terenceneo/Prediction-of-ER-Readmissions/blob/master/Models.ipynb)
 
 ## Authors
 ### Medical Practitionals
