@@ -1,4 +1,4 @@
-# Prediction of Emergency Room (ER) Readmissions for new patients
+# Prediction of Emergency Room (ER) Readmissions for incoming patients
 Machine Learning classification for Healthcare optimization
 
 ## Problem
