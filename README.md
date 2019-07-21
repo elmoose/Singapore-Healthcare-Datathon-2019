@@ -1,9 +1,9 @@
-# Prediction of Emergency Room Readmissions for new patients
+# Prediction of Emergency Room (ER) Readmissions for new patients
 Machine Learning classification for Healthcare optimization
 
 ## Problem
 ![](Images/pie.png)
-Hospital readmissions place a huge strain and cost on current healthcare systems. If clinicians are able to have a sensing on the pribability that a patient readmits, they will be able to take steps to mitigate this billion dollar healthcare problem.
+Hospital readmissions place a huge strain and cost on current healthcare systems. If clinicians are able to have a sensing on the probability that a patient readmits into ER, they will be able to take steps to mitigate this billion dollar healthcare problem.
 
 Traditional, explainable machine learning models are used in this patient classification prboblem
 
