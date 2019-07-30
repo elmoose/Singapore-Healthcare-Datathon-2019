@@ -1,5 +1,5 @@
 # Prediction of Emergency Room (ER) Readmissions for incoming patients
-Machine Learning classification for Healthcare optimization
+Machine Learning classification for Healthcare optimization. In collaboration with [National University Hospital](https://www.nuh.com.sg/Pages/Home.aspx), Singapore.
 
 ## Problem
 ![](Images/pie.png)
@@ -60,10 +60,10 @@ Traditional, explainable machine learning models are used in this patient classi
 
 ## Acknowledgements
 ### Organizing Partners
-- NUS Saw Swee Hock School of Public Health
-- NUHS
+- [NUS Saw Swee Hock School of Public Health](https://sph.nus.edu.sg/)
+- [National University Health System (NUHS)](https://www.nuhs.edu.sg/Pages/Home.aspx)
 - MSD
-- MIT Critical Data Lab
+- [MIT Critical Data Lab](https://criticaldata.mit.edu/)
 
 ### Technology Partners
 - Google Cloud
