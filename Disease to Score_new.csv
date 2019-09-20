@@ -1,0 +1,15 @@
+,Disease,Scores
+0,0,0
+1,cancer,6
+2,cerebrovascular_disease,1
+3,chronic_pulmonary_disease,1
+4,renal_disease,1
+5,congestive_heart_failure,1
+6,periphral_vascular_disease,1
+7,mild_liver_disease,3
+8,moderate_or_sever_liver_disease,1
+9,dementia,1
+10,diabetes_wo_complications,2
+11,connective_tissue_disease_rheumatic_disease,1
+12,metastitic_carcinoma,1
+13,paraplegia_and_hemiplegia,3
